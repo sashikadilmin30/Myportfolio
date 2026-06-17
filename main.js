@@ -192,7 +192,7 @@ document.addEventListener('DOMContentLoaded', () => {
       projectName: 'AI-Based Career Guidance System',
       slides: [
         { label: 'Login Page', src: 'images/career guidance/C1.png' },
-        { label: 'Registration Page', src: 'images/career guidance/c3.png' },
+        
         { label: 'Dashboard', src: 'images/career guidance/M2.png' },
         
       ]
