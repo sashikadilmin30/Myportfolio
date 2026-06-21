@@ -210,7 +210,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { label: 'Vehicle Detection Result', src: 'images/image-processing/a6.png' },
         { label: 'Pedestrian Detection Result', src: 'images/image-processing/a7.png' },
         { label: 'Traffic Sign Detection Result', src: 'images/image-processing/a8.png' },
-        { label: 'Distance Estimation Result', src: 'images/image-processing/final_lane.png' },
+        { label: 'Distance Estimation Result', src: 'images/image-processing/final_lane.jpg' },
         
       ]
     },
