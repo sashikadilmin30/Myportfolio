@@ -197,6 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
       ]
     },
+    
     {
       root: 'road',
       projectName: 'Autonomous Road Understanding System',
@@ -211,6 +212,14 @@ document.addEventListener('DOMContentLoaded', () => {
         { label: 'Traffic Sign Detection Result', src: 'images/image-processing/a8.png' },
         { label: 'Distance Estimation Result', src: 'images/image-processing/final_lane.png' },
         
+      ]
+    },
+
+    {
+      root: 'retail',
+      projectName: 'Retail Sales Intelligence Dashboard',
+      slides: [
+        { label: 'Dashboard Overview', src: 'images/Power BI/d1.png' }
       ]
     }
   ];
